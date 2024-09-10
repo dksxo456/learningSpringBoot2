@@ -1,0 +1,9 @@
+insert into course (id,name,author)
+values(1,'Learn AWS','in28minutes');
+
+insert into course (id,name,author)
+values(1,'Learn AWS','in28minutes');
+
+delete from course where id=1;
+
+select * from course;
